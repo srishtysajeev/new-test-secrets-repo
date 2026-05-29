@@ -1,0 +1,10 @@
+title = "gitleaks default config"
+
+[extend]
+useDefault = true
+
+[allowlist]
+description = "global allowlist"
+paths = []
+regexes = []
+commits = []
