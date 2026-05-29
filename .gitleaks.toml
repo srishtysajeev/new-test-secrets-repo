@@ -3,4 +3,8 @@ title = "gitleaks default config"
 [extend]
 useDefault = true
 
-
+keywords = [
+  "auth",
+  "password",
+  "token",
+]
