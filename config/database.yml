@@ -1,0 +1,10 @@
+production:
+  adapter: postgresql
+  host: db.example.com
+  username: admin
+  password: SuperSecret123!
+  database: prod_db
+
+aws:
+  access_key_id: AKIAIOSFODNN7EXAMPLE
+  secret_access_key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
