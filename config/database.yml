@@ -2,7 +2,7 @@ production:
   adapter: postgresql
   host: db.example.com
   username: admin
-  password: SuperSecret123!
+  password_token: AppleBananaCycle542
   database: prod_db
 
 aws:
