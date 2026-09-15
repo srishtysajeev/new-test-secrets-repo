@@ -6,7 +6,7 @@ production:
   database: prod_db
 
 aws:
-  achange2: achange24
+  achange2: achange245
   access_key_id: AKIAIOSFODNN7EXAMPLE
   anotherkey: AWS_SECRET_ACCESS_KEY=FAKE1234567890FAKEKEY
   secret_access_key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
